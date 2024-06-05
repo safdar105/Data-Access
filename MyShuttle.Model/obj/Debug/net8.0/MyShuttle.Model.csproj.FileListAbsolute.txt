@@ -1,0 +1,12 @@
+C:\StudentFiles\LabsAssets\Module 3 - Data Access\Complete\MyShuttle\MyShuttle.Model\bin\Debug\net8.0\MyShuttle.Model.deps.json
+C:\StudentFiles\LabsAssets\Module 3 - Data Access\Complete\MyShuttle\MyShuttle.Model\bin\Debug\net8.0\MyShuttle.Model.dll
+C:\StudentFiles\LabsAssets\Module 3 - Data Access\Complete\MyShuttle\MyShuttle.Model\bin\Debug\net8.0\MyShuttle.Model.pdb
+C:\StudentFiles\LabsAssets\Module 3 - Data Access\Complete\MyShuttle\MyShuttle.Model\obj\Debug\net8.0\MyShuttle.Model.csproj.AssemblyReference.cache
+C:\StudentFiles\LabsAssets\Module 3 - Data Access\Complete\MyShuttle\MyShuttle.Model\obj\Debug\net8.0\MyShuttle.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\StudentFiles\LabsAssets\Module 3 - Data Access\Complete\MyShuttle\MyShuttle.Model\obj\Debug\net8.0\MyShuttle.Model.AssemblyInfoInputs.cache
+C:\StudentFiles\LabsAssets\Module 3 - Data Access\Complete\MyShuttle\MyShuttle.Model\obj\Debug\net8.0\MyShuttle.Model.AssemblyInfo.cs
+C:\StudentFiles\LabsAssets\Module 3 - Data Access\Complete\MyShuttle\MyShuttle.Model\obj\Debug\net8.0\MyShuttle.Model.csproj.CoreCompileInputs.cache
+C:\StudentFiles\LabsAssets\Module 3 - Data Access\Complete\MyShuttle\MyShuttle.Model\obj\Debug\net8.0\MyShuttle.Model.dll
+C:\StudentFiles\LabsAssets\Module 3 - Data Access\Complete\MyShuttle\MyShuttle.Model\obj\Debug\net8.0\refint\MyShuttle.Model.dll
+C:\StudentFiles\LabsAssets\Module 3 - Data Access\Complete\MyShuttle\MyShuttle.Model\obj\Debug\net8.0\MyShuttle.Model.pdb
+C:\StudentFiles\LabsAssets\Module 3 - Data Access\Complete\MyShuttle\MyShuttle.Model\obj\Debug\net8.0\ref\MyShuttle.Model.dll
