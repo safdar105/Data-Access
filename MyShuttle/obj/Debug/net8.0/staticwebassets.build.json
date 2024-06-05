@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dtRIrWy2ub7A5gW8yAvs9C+rR3hFAiXmd87HsF4I0A8=",
+  "Source": "MyShuttle.Web",
+  "BasePath": "_content/MyShuttle.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
